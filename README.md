@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elk-dev
-- 👀 I’m interested in network engineering
-- 🌱 I’m currently learning for my CCNA
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently studying for my Red Hat Certified System Administrator 
 - 💞️ I’m looking to collaborate on anything that I can
 - 📫 How to reach me dm through GitHub
 
